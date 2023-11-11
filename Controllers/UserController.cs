@@ -1,3 +1,5 @@
+using DotnetAPI.Data;
+using DotnetAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Identity.Client;
 

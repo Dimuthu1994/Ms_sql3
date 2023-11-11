@@ -1,4 +1,4 @@
-namespace DotnetAPI
+namespace DotnetAPI.Data
 {
     public partial class UserDto
     {
