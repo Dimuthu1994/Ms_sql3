@@ -10,8 +10,6 @@ using Microsoft.Identity.Client;
 
 namespace DotnetAPI.Controllers;
 
-[ApiController]
-[Route("[controller]")]
 public class AuthController : ControllerBase
 {
     private readonly DataContextDapper _dapper;
